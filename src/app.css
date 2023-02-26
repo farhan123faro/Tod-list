@@ -1,0 +1,14 @@
+#mli{
+    list-style-type: none;
+    border: 2px solid black;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 20px;
+    background-color: rgb(223, 148, 163);
+
+
+}
+#main{
+    background-color: aquamarine;
+    
+}
